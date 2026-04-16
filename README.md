@@ -1,87 +1,117 @@
-# 👋 Micomyiza Alexis
+<!-- 🔥 HEADER / HERO -->
+<h1 align="center">Hi 👋, I'm Micomyiza Alexis</h1>
+<h3 align="center">Fullstack Developer | UI/UX Designer</h3>
 
-Fullstack Developer | UI/UX Designer
-
+<p align="center">
 I design and build scalable web applications — from clean user interfaces to solid backend systems.
+</p>
+
+<p align="center">
+  <a href="https://micomyizaalexis.netlify.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:micomyizaa742@gmail.com">📧 Email</a>
+</p>
 
 ---
 
-## 🚀 About Me
+<!-- 🧠 ABOUT -->
+## 🧠 About Me
 
-I don’t just build interfaces — I build complete systems.
+I build systems, not just projects.
 
-Currently working on real-world platforms like:
-
-* **Ogera** – helping students earn through structured online work
-* **SafariTix** – a smart transport ticketing system with real-time tracking
-
-What I focus on:
-
-* 🎨 Intuitive and modern UI/UX
-* ⚙️ Scalable backend architecture
-* ⚡ Performance and clean code
-* 🔗 Connecting frontend with real-world systems (APIs, databases, payments)
+- 🚀 Currently working on **Ogera** and **SafariTix**
+- 🎯 Focused on **Fullstack Development + UI/UX**
+- ⚙️ I enjoy connecting frontend with backend systems (APIs, databases, real-world logic)
+- 🤝 Experienced in team-based development and real project collaboration
 
 ---
 
-## 🧠 What I Bring
+<!-- ⚡ WHAT I BRING -->
+## ⚡ What I Bring
 
-* Ability to design **user-friendly interfaces**
-* Ability to build **functional backend systems**
-* Strong understanding of **how systems work end-to-end**
-* Experience working on **team-based production projects**
+- 🎨 Clean, modern, and user-focused interfaces  
+- ⚙️ Scalable backend systems and logic  
+- 🔗 Full understanding of systems end-to-end  
+- 🚀 Ability to turn ideas into real working products  
 
 ---
 
+<!-- 🛠️ TECH STACK -->
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-
-React • Next.js • Tailwind CSS • JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js" />
+</p>
 
 ### ⚙️ Backend
-
-Node.js • PHP
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php" />
+</p>
 
 ### 🗄️ Database
-
-MySQL • MariaDB • Supabase
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### 🧰 Tools
-
-Git • GitHub • Figma
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+</p>
 
 ---
 
+<!-- 🔥 PROJECTS -->
 ## 🔥 Featured Projects
 
 ### 🚍 SafariTix
-
-A smart transport ticketing system with features like real-time bus tracking and seat management.
-→ Focus: system design + backend logic + user experience
+Smart transport ticketing system with real-time tracking and seat management.  
+💡 Focus: system architecture, backend logic, and user experience  
 
 ---
 
 ### 💼 Ogera
-
-A platform helping students earn money through structured online jobs while tracking performance.
-→ Focus: fullstack architecture + UI/UX + real-world impact
+Platform helping students earn money through structured online jobs.  
+💡 Focus: fullstack architecture, UI/UX, and real-world impact  
 
 ---
 
+<!-- 📊 STATS -->
 ## 📊 GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Micomyiza-Alexis\&show_icons=true\&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=micomyizaalex&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=micomyizaalex&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micomyizaalex&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+<!-- 🏆 ACHIEVEMENTS -->
+## 🏆 Achievements
 
-* 🌐 Portfolio: https://micomyizaalexis.netlify.app/
-* 📧 Email: [micomyizaa742@gmail.com](mailto:micomyizaa742@gmail.com)
+- 🦈 Pull Shark x2  
+- ⚡ YOLO  
 
 ---
 
-## ⚡ Fun Fact
+<!-- 📫 CONTACT -->
+## 📫 Let’s Connect
 
-I enjoy turning ideas into real working systems — not just designing them, but making them function in the real world.
+<p align="center">
+  <a href="https://github.com/micomyizaalex">GitHub</a> •
+  <a href="https://micomyizaalexis.netlify.app/">Portfolio</a> •
+  <a href="mailto:micomyizaa742@gmail.com">Email</a>
+</p>
+
+---
+
+<!-- ⚡ FINAL LINE -->
+<p align="center">
+⚡ I enjoy turning ideas into real systems that people can actually use.
+</p>
