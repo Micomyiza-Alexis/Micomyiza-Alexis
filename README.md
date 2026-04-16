@@ -1,70 +1,84 @@
-<h1 align="center">Hi 👋, I'm Micomyiza Alexis</h1>
+<h1 align="center">Micomyiza Alexis</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Fullstack+Developer;UI%2FUX+Designer;Building+Real-World+Systems;Clean+UI+%2B+Scalable+Backend" />
+  🚀 Full-Stack Developer • System Builder • UI/UX Thinker  
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Real-World+Systems;Transport+%2C+Health-Tech+%2C+Student+Platforms;Clean+UI+%2B+Scalable+Backend;From+Idea+→+Working+Product" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I design and build fullstack systems that solve real-world problems.
+I build **real-world digital systems** — not just apps.
 
-- 🚀 Working on **Ogera** and **SafariTix**
-- 🎯 Focused on **UI/UX + Backend Systems**
-- ⚙️ I enjoy building complete systems (not just interfaces)
-- 🤝 Experience working in team-based production projects
+Focused on solving practical problems across **transport, health-tech, and student economy platforms**.
+
+- 🚍 Building **SafariTix** — Smart transport ticketing & real-time tracking  
+- 💼 Developing **Ogera** — Student work platform with trust & performance systems  
+- 🏥 Creating **MediGuide+** — Accessible AI-powered health companion  
+
+I combine **clean UI/UX** with **scalable backend systems** to deliver complete products.
 
 ---
 
-## ⚡ What I Do Best
+## ⚡ What I Do
 
-- 🎨 Craft clean and intuitive user interfaces  
-- ⚙️ Build scalable backend systems  
-- 🔗 Connect frontend with APIs, databases, and real-world logic  
-- 🚀 Turn ideas into fully working products  
+- 🎨 Design intuitive, user-focused interfaces  
+- ⚙️ Build scalable backend architectures  
+- 🔗 Integrate APIs, databases, and real-world workflows  
+- 🚀 Turn ideas into production-ready systems  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,nodejs,php,mysql,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,nodejs,php,mysql,python,git,github,figma" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## 📌 Featured Projects
 
 ### 🚍 SafariTix
-Smart transport ticketing system with real-time tracking and seat management.  
-👉 Focus: system architecture + backend logic + user experience  
+Smart transport ticketing system with real-time GPS tracking and subscription model  
+→ Improving efficiency in public transport systems  
 
 ---
 
 ### 💼 Ogera
-Platform helping students earn money through structured online jobs.  
-👉 Focus: fullstack development + UI/UX + real-world impact  
+Platform enabling students to earn through structured, verified online work  
+→ Balancing income generation with academic performance  
+
+---
+
+### 🏥 MediGuide+
+AI-powered health companion focused on accessibility and guidance  
+→ Supporting mental health and inclusive healthcare access  
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Micomyiza-Alexis&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Micomyiza-Alexis&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Micomyiza-Alexis&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Micomyiza-Alexis&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
 - 🦈 Pull Shark x2  
-- ⚡ YOLO  
+- ⚡ Consistent builder of real-world systems  
+- 🚀 Active in full-stack & product-focused development  
 
 ---
 
-## 📫 Let’s Connect
+## 🌍 Connect
 
 <p align="center">
   <a href="https://github.com/Micomyiza-Alexis">GitHub</a> •
@@ -75,5 +89,5 @@ Platform helping students earn money through structured online jobs.
 ---
 
 <p align="center">
-⚡ I build systems that people actually use.
+💡 I build systems that solve real problems — and scale.
 </p>
