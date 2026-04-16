@@ -79,15 +79,15 @@ Platform helping students earn money through structured online jobs.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=micomyizaalex&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Micomyiza-Alexi&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=micomyizaalex&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Micomyiza-Alexi&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micomyizaalex&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micomyiza-Alexis&layout=compact&theme=tokyonight" />
 </p>
 
 ---
