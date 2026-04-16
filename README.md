@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" />
+  <img src="<img width="735" height="413" alt="Mysterious Hacker in the Digital Shadows - backiee" src="https://github.com/user-attachments/assets/0b6687fa-7a0b-4aa7-9703-7efd200f2859" />
+" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Micomyiza Alexis</h1>
@@ -55,8 +56,10 @@ Platform helping students earn money through structured online jobs.
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="YOUR_PROJECT_SCREENSHOT_1" width="400"/>
-  <img src="YOUR_PROJECT_SCREENSHOT_2" width="400"/>
+  <img src="<img width="1905" height="852" alt="image" src="https://github.com/user-attachments/assets/bd55f2b1-3a6a-4212-90f1-b2b4e90ff075" />
+" width="400"/>
+  <img src="<img width="1915" height="889" alt="image" src="https://github.com/user-attachments/assets/e8bcb128-1e4a-4024-b005-698039a00a46" />
+" width="400"/>
 </p>
 
 ---
@@ -64,11 +67,11 @@ Platform helping students earn money through structured online jobs.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=micomyizaalexis&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Micomyiza-Alexis&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=micomyizaalexis&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Micomyiza-Alexis&theme=tokyonight" />
 </p>
 
 ---
@@ -83,7 +86,7 @@ Platform helping students earn money through structured online jobs.
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://github.com/micomyizaalexis">GitHub</a> •
+  <a href="https://github.com/Micomyiza-Alexis">GitHub</a> •
   <a href="https://micomyizaalexis.netlify.app/">Portfolio</a> •
   <a href="mailto:micomyizaa742@gmail.com">Email</a>
 </p>
