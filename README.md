@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Micomyiza Alexis
 
-<!--
-**Micomyiza-Alexis/Micomyiza-Alexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer | UI/UX Designer  
 
-Here are some ideas to get you started:
+Building scalable web applications and meaningful digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I build systems, not just projects.
+
+Currently working on:
+- Ogera (student earning platform)
+- SafariTix (transport ticketing system)
+
+I focus on:
+- Clean UI/UX
+- Scalable frontend architecture
+- Performance-driven design
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+React • Next.js • Tailwind CSS  
+
+**Backend:**  
+Node.js • PHP  
+
+**Database:**  
+MySQL • Supabase  
+
+---
+
+## 🔥 Featured Projects
+
+### 🚍 SafariTix  
+Smart transport ticketing system with real-time tracking.
+
+### 💼 Ogera  
+Platform helping students earn money through online work.
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=micomyizaalex&show_icons=true&theme=dark)
+
+---
+
+## 📫 Connect With Me
+
+- Portfolio: https://micomyizaalexis.netlify.app/
+- Email: micomyizaa742@gmail.com
