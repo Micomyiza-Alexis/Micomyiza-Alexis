@@ -1,56 +1,87 @@
 # 👋 Micomyiza Alexis
 
-Frontend Engineer | UI/UX Designer  
+Fullstack Developer | UI/UX Designer
 
-Building scalable web applications and meaningful digital experiences.
+I design and build scalable web applications — from clean user interfaces to solid backend systems.
 
 ---
 
 ## 🚀 About Me
 
-I build systems, not just projects.
+I don’t just build interfaces — I build complete systems.
 
-Currently working on:
-- Ogera (student earning platform)
-- SafariTix (transport ticketing system)
+Currently working on real-world platforms like:
 
-I focus on:
-- Clean UI/UX
-- Scalable frontend architecture
-- Performance-driven design
+* **Ogera** – helping students earn through structured online work
+* **SafariTix** – a smart transport ticketing system with real-time tracking
+
+What I focus on:
+
+* 🎨 Intuitive and modern UI/UX
+* ⚙️ Scalable backend architecture
+* ⚡ Performance and clean code
+* 🔗 Connecting frontend with real-world systems (APIs, databases, payments)
+
+---
+
+## 🧠 What I Bring
+
+* Ability to design **user-friendly interfaces**
+* Ability to build **functional backend systems**
+* Strong understanding of **how systems work end-to-end**
+* Experience working on **team-based production projects**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-React • Next.js • Tailwind CSS  
+### 🎨 Frontend
 
-**Backend:**  
-Node.js • PHP  
+React • Next.js • Tailwind CSS • JavaScript
 
-**Database:**  
-MySQL • Supabase  
+### ⚙️ Backend
+
+Node.js • PHP
+
+### 🗄️ Database
+
+MySQL • MariaDB • Supabase
+
+### 🧰 Tools
+
+Git • GitHub • Figma
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🚍 SafariTix  
-Smart transport ticketing system with real-time tracking.
+### 🚍 SafariTix
 
-### 💼 Ogera  
-Platform helping students earn money through online work.
+A smart transport ticketing system with features like real-time bus tracking and seat management.
+→ Focus: system design + backend logic + user experience
 
 ---
 
-## 📊 GitHub Stats
+### 💼 Ogera
 
-![Stats](https://github-readme-stats.vercel.app/api?username=micomyizaalex&show_icons=true&theme=dark)
+A platform helping students earn money through structured online jobs while tracking performance.
+→ Focus: fullstack architecture + UI/UX + real-world impact
+
+---
+
+## 📊 GitHub Activity
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Micomyiza-Alexis\&show_icons=true\&theme=dark)
 
 ---
 
 ## 📫 Connect With Me
 
-- Portfolio: https://micomyizaalexis.netlify.app/
-- Email: micomyizaa742@gmail.com
+* 🌐 Portfolio: https://micomyizaalexis.netlify.app/
+* 📧 Email: [micomyizaa742@gmail.com](mailto:micomyizaa742@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning ideas into real working systems — not just designing them, but making them function in the real world.
