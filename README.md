@@ -1,7 +1,3 @@
-<p align="center">
-<img width="735" height="413" alt="Mysterious Hacker in the Digital Shadows - backiee" src="https://github.com/user-attachments/assets/463cbdfa-075a-4c12-9327-77d8b4b7dc09" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Micomyiza Alexis</h1>
 
 <p align="center">
@@ -49,15 +45,6 @@ Smart transport ticketing system with real-time tracking and seat management.
 ### 💼 Ogera
 Platform helping students earn money through structured online jobs.  
 👉 Focus: fullstack development + UI/UX + real-world impact  
-
----
-
-## 📸 Project Preview
-
-<p align="center">
-<img width="1905" height="852" alt="image" src="https://github.com/user-attachments/assets/bd55f2b1-3a6a-4212-90f1-b2b4e90ff075" />
-<img width="1915" height="889" alt="image" src="https://github.com/user-attachments/assets/e8bcb128-1e4a-4024-b005-698039a00a46" />
-</p>
 
 ---
 
