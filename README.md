@@ -80,13 +80,7 @@ Platform helping students earn money through structured online jobs.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Micomyiza-Alexis&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Micomyiza-Alexis&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micomyiza-Alexis&layout=compact&theme=tokyonight" />
 </p>
 
