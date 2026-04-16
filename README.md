@@ -8,7 +8,7 @@ I design and build scalable web applications — from clean user interfaces to s
 
 <p align="center">
   <a href="https://micomyizaalexis.netlify.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:micomyizaa742@gmail.com">📧 Email</a>
+  <a href="mailto:lexmico10@gmail.com">📧 Email</a>
 </p>
 
 ---
@@ -79,11 +79,11 @@ Platform helping students earn money through structured online jobs.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Micomyiza-Alexi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Micomyiza-Alexis&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Micomyiza-Alexi&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Micomyiza-Alexis&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@ Platform helping students earn money through structured online jobs.
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://github.com/micomyizaalex">GitHub</a> •
+  <a href="https://github.com/Micomyiza-Alexis">GitHub</a> •
   <a href="https://micomyizaalexis.netlify.app/">Portfolio</a> •
   <a href="mailto:micomyizaa742@gmail.com">Email</a>
 </p>
