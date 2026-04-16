@@ -56,10 +56,8 @@ Platform helping students earn money through structured online jobs.
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="<img width="1905" height="852" alt="image" src="https://github.com/user-attachments/assets/bd55f2b1-3a6a-4212-90f1-b2b4e90ff075" />
-" width="400"/>
-  <img src="<img width="1915" height="889" alt="image" src="https://github.com/user-attachments/assets/e8bcb128-1e4a-4024-b005-698039a00a46" />
-" width="400"/>
+<img width="1905" height="852" alt="image" src="https://github.com/user-attachments/assets/bd55f2b1-3a6a-4212-90f1-b2b4e90ff075" />
+<img width="1915" height="889" alt="image" src="https://github.com/user-attachments/assets/e8bcb128-1e4a-4024-b005-698039a00a46" />
 </p>
 
 ---
