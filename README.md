@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="<img width="735" height="413" alt="Mysterious Hacker in the Digital Shadows - backiee" src="https://github.com/user-attachments/assets/0b6687fa-7a0b-4aa7-9703-7efd200f2859" />
-" />
+<img width="735" height="413" alt="Mysterious Hacker in the Digital Shadows - backiee" src="https://github.com/user-attachments/assets/463cbdfa-075a-4c12-9327-77d8b4b7dc09" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Micomyiza Alexis</h1>
