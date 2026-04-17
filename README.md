@@ -33,13 +33,28 @@ I combine **clean UI/UX** with **scalable backend systems** to deliver complete 
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
+<p align="center"> <!-- Frontend -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,nodejs,php,mysql,python,git,github,figma" />
+<strong>Frontend</strong><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js" /><br/><br/>
+
+<!-- Backend -->
+
+<strong>Backend</strong><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,php,python" /><br/><br/>
+
+<!-- Database -->
+
+<strong>Database</strong><br/>
+<img src="https://skillicons.dev/icons?i=mysql" /><br/><br/>
+
+<!-- Tools -->
+
+<strong>Tools & Design</strong><br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma" />
+
 </p>
-
----
 
 ## 📌 Featured Projects
 
