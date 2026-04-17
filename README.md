@@ -37,21 +37,25 @@ I combine **clean UI/UX** with **scalable backend systems** to deliver complete 
 <p align="center"> <!-- Frontend -->
 
 <strong>Frontend</strong><br/>
+React (Advanced) • Next.js (Intermediate) • Tailwind CSS (Advanced) • JavaScript (Advanced)<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js" /><br/><br/>
 
 <!-- Backend -->
 
 <strong>Backend</strong><br/>
+Node.js (Intermediate) • PHP (Intermediate) • Python (Intermediate)<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,php,python" /><br/><br/>
 
 <!-- Database -->
 
 <strong>Database</strong><br/>
+MySQL (Intermediate)<br/>
 <img src="https://skillicons.dev/icons?i=mysql" /><br/><br/>
 
 <!-- Tools -->
 
 <strong>Tools & Design</strong><br/>
+Git (Advanced) • GitHub (Advanced) • Figma (Intermediate)<br/>
 <img src="https://skillicons.dev/icons?i=git,github,figma" />
 
 </p>
