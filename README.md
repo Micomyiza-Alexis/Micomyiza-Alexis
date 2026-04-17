@@ -17,7 +17,7 @@ I build **real-world digital systems** — not just apps.
 Focused on solving practical problems across **transport, health-tech, and student economy platforms**.
 
 - 🚍 Building **SafariTix** — Smart transport ticketing & real-time tracking  
-- 💼 Developing **Ogera** — Student work platform with trust & performance systems  
+- 💼 Developing **Ogera** — UI/UX & Frontend Contributor (Team Project)
 - 🏥 Creating **MediGuide+** — Accessible AI-powered health companion  
 
 I combine **clean UI/UX** with **scalable backend systems** to deliver complete products.
@@ -71,6 +71,7 @@ Smart transport ticketing system with real-time GPS tracking and subscription mo
 
 ### 💼 Ogera
 Platform enabling students to earn through structured, verified online work  
+Contributed to design systems, frontend implementation, and user experience flow for a student work platform.
 → Balancing income generation with academic performance  
 
 ---
