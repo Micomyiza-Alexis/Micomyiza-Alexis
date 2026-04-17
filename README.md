@@ -49,8 +49,9 @@ Node.js (Intermediate) • PHP (Intermediate) • Python (Intermediate)<br/>
 <!-- Database -->
 
 <strong>Database</strong><br/>
-MySQL (Intermediate)<br/>
-<img src="https://skillicons.dev/icons?i=mysql" /><br/><br/>
+PostgreSQL (Intermediate) • MySQL (Intermediate) • MongoDB (Intermediate)<br/>
+Supabase (Backend-as-a-Service) • Oracle (Familiar) • SQL (Advanced)<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" /><br/><br/>
 
 <!-- Tools -->
 
