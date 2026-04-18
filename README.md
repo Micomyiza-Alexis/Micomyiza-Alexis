@@ -90,25 +90,10 @@ AI-powered health companion focused on accessibility and guidance
 </p>
 
 ---
-
-## 🏆 Highlights
-
-- 🦈 Pull Shark x2  
-- ⚡ Consistent builder of real-world systems  
-- 🚀 Active in full-stack & product-focused development  
-
----
-
-## 🌍 Connect
-
-<p align="center">
-  <a href="https://github.com/Micomyiza-Alexis">GitHub</a> •
-  <a href="https://micomyizaalexis.netlify.app/">Portfolio</a> •
-  <a href="mailto:micomyizaa742@gmail.com">Email</a>
-</p>
-
----
-
-<p align="center">
-💡 I build systems that solve real problems — and scale.
-</p>
+🏆 Highlights
+🦈 Pull Shark x2
+⚡ Builder of real-world systems in transport, education, and health-tech
+🚀 Full-stack developer focused on product impact, scalability, and clean UX
+🌍 Connect
+<p align="center"> <a href="https://github.com/Micomyiza-Alexis">GitHub</a> • <a href="https://micomyizaalexis.netlify.app/">Portfolio</a> • <a href="mailto:micomyizaa742@gmail.com">Email</a> </p>
+<p align="center"> 💡 I build systems that solve real problems — and scale when they matter most. </p>
