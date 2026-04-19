@@ -1,7 +1,7 @@
 <h1 align="center">Micomyiza Alexis</h1>
 
 <p align="center">
-  🚀 Full-Stack Developer • System Builder • UI/UX Thinker  
+🚀 Full-Stack Developer • System Builder • UI/UX Thinker  
 </p>
 
 <p align="center">
@@ -12,73 +12,68 @@
 
 ## 🧠 About Me
 
-I build **real-world digital systems** — not just apps.
+I build **production-ready digital systems** that solve real-world problems in transport, education, and healthcare.
 
-Focused on solving practical problems across **transport, health-tech, and student economy platforms**.
+I focus on turning ideas into **usable, scalable, and user-centered products** — from frontend experience to backend architecture.
 
-- 🚍 Building **SafariTix** — Smart transport ticketing & real-time tracking  
-- 💼 Developing **Ogera** — UI/UX & Frontend Contributor (Team Project)
-- 🏥 Creating **MediGuide+** — Accessible AI-powered health companion  
+- 🚍 **SafariTix** — Smart transport ticketing + real-time tracking system  
+- 💼 **Ogera** — Student work platform focused on trust, learning, and income balance  
+- 🏥 **MediGuide+** — AI-powered health companion for accessible healthcare support  
 
-I combine **clean UI/UX** with **scalable backend systems** to deliver complete products.
+👉 I care about building systems that actually get used in real life.
 
 ---
 
 ## ⚡ What I Do
 
-- 🎨 Design intuitive, user-focused interfaces  
-- ⚙️ Build scalable backend architectures  
-- 🔗 Integrate APIs, databases, and real-world workflows  
-- 🚀 Turn ideas into production-ready systems  
+- 🎨 Design clean, intuitive, user-focused interfaces  
+- ⚙️ Build scalable backend systems & APIs  
+- 🔗 Integrate full-stack workflows into real-world products  
+- 🚀 Turn ideas into working, deployable systems  
 
 ---
 
-🛠️ Tech Stack
-<p align="center"> <!-- Frontend -->
+## 🛠️ Tech Stack
+
+<p align="center">
 
 <strong>Frontend</strong><br/>
-React (Advanced) • Next.js (Intermediate) • Tailwind CSS (Advanced) • JavaScript (Advanced)<br/>
+React • Next.js • Tailwind CSS • JavaScript<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js" /><br/><br/>
 
-<!-- Backend -->
-
 <strong>Backend</strong><br/>
-Node.js (Intermediate) • PHP (Intermediate) • Python (Intermediate)<br/>
+Node.js • PHP • Python<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,php,python" /><br/><br/>
 
-<!-- Database -->
-
-<strong>Database</strong><br/>
-PostgreSQL (Intermediate) • MySQL (Intermediate) • MongoDB (Intermediate)<br/>
-Supabase (Backend-as-a-Service) • Oracle (Familiar) • SQL (Advanced)<br/>
+<strong>Databases</strong><br/>
+PostgreSQL • MySQL • MongoDB • Supabase • SQL<br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" /><br/><br/>
 
-<!-- Tools -->
-
-<strong>Tools & Design</strong><br/>
-Git (Advanced) • GitHub (Advanced) • Figma (Intermediate)<br/>
+<strong>Tools</strong><br/>
+Git • GitHub • Figma<br/>
 <img src="https://skillicons.dev/icons?i=git,github,figma" />
 
 </p>
 
+---
+
 ## 📌 Featured Projects
 
 ### 🚍 SafariTix
-Smart transport ticketing system with real-time GPS tracking and subscription model  
-→ Improving efficiency in public transport systems  
+Smart transport ticketing system with real-time GPS tracking and subscription model.  
+Improves commuter experience by reducing waiting time and digitizing transport operations.
 
 ---
 
 ### 💼 Ogera
-Platform enabling students to earn through structured, verified online work  
-Contributed to design systems, frontend implementation, and user experience flow for a student work platform.
-→ Balancing income generation with academic performance  
+Student work platform enabling verified online jobs while balancing academic performance.  
+Focuses on trust systems, learning pathways, and safe income generation for students.
 
 ---
 
 ### 🏥 MediGuide+
-AI-powered health companion focused on accessibility and guidance  
-→ Supporting mental health and inclusive healthcare access  
+AI-powered health companion designed for accessible healthcare guidance and support.  
+Focuses on mental health, inclusivity, and daily health decision assistance.
 
 ---
 
@@ -90,10 +85,24 @@ AI-powered health companion focused on accessibility and guidance
 </p>
 
 ---
-🏆 Highlights
-🦈 Pull Shark x2
-⚡ Builder of real-world systems in transport, education, and health-tech
-🚀 Full-stack developer focused on product impact, scalability, and clean UX
-🌍 Connect
-<p align="center"> <a href="https://github.com/Micomyiza-Alexis">GitHub</a> • <a href="https://micomyizaalexis.netlify.app/">Portfolio</a> • <a href="mailto:micomyizaa742@gmail.com">Email</a> </p>
-<p align="center"> 💡 I build systems that solve real problems — and scale when they matter most. </p>
+
+## 🏆 Highlights
+
+- 🦈 Pull Shark x2 (GitHub achievement)  
+- 🚍 Built systems across transport, education, and health-tech  
+- ⚡ Strong focus on full-stack product development  
+- 🚀 Experience turning ideas into functional MVPs  
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Micomyiza-Alexis">GitHub</a> •
+  <a href="https://micomyizaalexis.netlify.app/">Portfolio</a> •
+  <a href="mailto:micomyizaa742@gmail.com">Email</a>
+</p>
+
+<p align="center">
+💡 I build systems that solve real problems — and scale when they matter most.
+</p>
