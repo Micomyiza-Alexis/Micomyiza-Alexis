@@ -1,35 +1,64 @@
 <h1 align="center">Micomyiza Alexis</h1>
 
 <p align="center">
-🚀 Full-Stack Developer • System Builder • UI/UX Thinker  
+🚀 Full-Stack Developer • System Builder • Product Thinker  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Real-World+Systems;Transport+%2C+Health-Tech+%2C+Student+Platforms;Clean+UI+%2B+Scalable+Backend;From+Idea+→+Working+Product" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=I+Build+Real-World+Systems;Transport+%7C+Health-Tech+%7C+Education+Platforms;From+Idea+→+MVP+→+Scalable+Product;Clean+UI+%2B+Strong+Backend+Architecture" />
 </p>
+
+---
+
+## ⚡ TL;DR
+
+I don’t just code.  
+I build **systems that solve real problems and can scale in the real world.**
+
+Currently focused on:
+- 🚍 Transport systems
+- 💼 Student economy platforms
+- 🏥 Digital health solutions
 
 ---
 
 ## 🧠 About Me
 
-I build **production-ready digital systems** that solve real-world problems in transport, education, and healthcare.
+I’m a **full-stack system builder** who turns ideas into working products.
 
-I focus on turning ideas into **usable, scalable, and user-centered products** — from frontend experience to backend architecture.
+I care about:
+- real users
+- real problems
+- real impact
 
-- 🚍 **SafariTix** — Smart transport ticketing + real-time tracking system  
-- 💼 **Ogera** — Student work platform focused on trust, learning, and income balance  
-- 🏥 **MediGuide+** — AI-powered health companion for accessible healthcare support  
-
-👉 I care about building systems that actually get used in real life.
+Everything I build is designed with:
+> ⚙️ scalability • 🎯 usability • 🚀 real-world deployment in mind
 
 ---
 
-## ⚡ What I Do
+## 🧩 What I Build
 
-- 🎨 Design clean, intuitive, user-focused interfaces  
-- ⚙️ Build scalable backend systems & APIs  
-- 🔗 Integrate full-stack workflows into real-world products  
-- 🚀 Turn ideas into working, deployable systems  
+### 🚍 SafariTix
+Smart transport system with ticketing + real-time tracking  
+→ Fixing inefficiency in public transport operations
+
+### 💼 Ogera
+Student work platform with trust + learning + income balance system  
+→ Helping students earn without destroying academic performance
+
+### 🏥 MediGuide+
+AI-powered health companion for accessible guidance  
+→ Making health support more available and understandable
+
+---
+
+## ⚙️ What I Do Best
+
+- 🎨 Build clean, modern UI/UX systems
+- ⚙️ Design scalable backend architectures
+- 🔗 Connect APIs, databases, and real workflows
+- 🚀 Turn ideas into deployable MVPs
+- 🧠 Think in systems, not just features
 
 ---
 
@@ -37,65 +66,47 @@ I focus on turning ideas into **usable, scalable, and user-centered products** �
 
 <p align="center">
 
-<strong>Frontend</strong><br/>
-React • Next.js • Tailwind CSS • JavaScript<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js" /><br/><br/>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js" />
 
-<strong>Backend</strong><br/>
-Node.js • PHP • Python<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,php,python" /><br/><br/>
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,php,python" />
 
-<strong>Databases</strong><br/>
-PostgreSQL • MySQL • MongoDB • Supabase • SQL<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" /><br/><br/>
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
 
-<strong>Tools</strong><br/>
-Git • GitHub • Figma<br/>
-<img src="https://skillicons.dev/icons?i=git,github,figma" />
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-### 🚍 SafariTix
-Smart transport ticketing system with real-time GPS tracking and subscription model.  
-Improves commuter experience by reducing waiting time and digitizing transport operations.
-
----
-
-### 💼 Ogera
-Student work platform enabling verified online jobs while balancing academic performance.  
-Focuses on trust systems, learning pathways, and safe income generation for students.
-
----
-
-### 🏥 MediGuide+
-AI-powered health companion designed for accessible healthcare guidance and support.  
-Focuses on mental health, inclusivity, and daily health decision assistance.
-
----
-
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Micomyiza-Alexis&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=Micomyiza-Alexis&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Micomyiza-Alexis&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Highlights
+## 🏆 Proof of Work
 
-- 🦈 Pull Shark x2 (GitHub achievement)  
-- 🚍 Built systems across transport, education, and health-tech  
-- ⚡ Strong focus on full-stack product development  
-- 🚀 Experience turning ideas into functional MVPs  
+- 🦈 GitHub Pull Shark x2  
+- 🚀 Active builder of real-world MVP systems  
+- ⚙️ Strong focus on full-stack product engineering  
+- 🌍 Projects across transport, education, and health-tech domains  
 
 ---
 
-## 🌍 Connect With Me
+## 📌 Philosophy
+
+> “Don’t build apps. Build systems that survive real users.”
+
+---
+
+## 🌍 Connect
 
 <p align="center">
   <a href="https://github.com/Micomyiza-Alexis">GitHub</a> •
@@ -104,5 +115,5 @@ Focuses on mental health, inclusivity, and daily health decision assistance.
 </p>
 
 <p align="center">
-💡 I build systems that solve real problems — and scale when they matter most.
+💡 Building systems that scale, matter, and last.
 </p>
