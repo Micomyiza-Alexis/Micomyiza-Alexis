@@ -9,7 +9,6 @@
 </p>
 
 ---
-
 ## ⚡ TL;DR
 
 I don’t just code.  
