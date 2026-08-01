@@ -48,15 +48,16 @@ SafariTix is a modern bus ticket booking and transport management system built t
 
 React • TypeScript • Tailwind CSS • Node.js • Express • PostgreSQL
 
-### 🔗 Links
+### 🔗 Project Links
 
-🌐 **Live Demo**
-
+🌐 **Live Demo**  
 https://project-safaritix-transportation.vercel.app/
 
-📂 **GitHub Repository**
+💻 **Frontend Repository**  
+https://github.com/Micomyiza-Alexis/project_safatiTix
 
-https://github.com/Micomyiza-Alexis/SafariTix_Project
+⚙️ **Backend Repository**  
+https://github.com/Micomyiza-Alexis/backend_v2
 
 ---
 
