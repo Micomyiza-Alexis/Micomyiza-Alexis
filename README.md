@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Micomyiza Alexis</h1>
 
 <p align="center">
-🚀 Full-Stack Developer • System Builder • IT Student
+  🚀 Full-Stack Developer • Backend Enthusiast • System Builder • IT Student
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Developer;Building+Real-World+Systems;React+%7C+Node.js+%7C+PostgreSQL;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Developer;Backend+%26+System+Development;Building+Real-World+Systems;React+%7C+Node.js+%7C+PostgreSQL;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
@@ -18,21 +18,62 @@
 
 I'm **Micomyiza Alexis**, an Information Technology student and full-stack developer passionate about building practical software that solves real-world problems.
 
-I enjoy designing modern user interfaces, developing scalable backend systems, and transforming ideas into working applications.
+I enjoy turning ideas into functional systems — from designing user interfaces to building APIs, databases, authentication systems, and complete web applications.
 
-Currently focused on:
-- 🚍 Smart Transport Systems
+I'm especially interested in **backend development, system architecture, APIs, and building scalable software**.
+
+### Currently focused on:
+
 - 🌐 Full-Stack Web Development
+- ⚙️ Backend & API Development
+- 🗄️ PostgreSQL & Database Design
+- 🏗️ Software Architecture & System Design
 - 🤖 Artificial Intelligence
 - ☁️ Cloud & Modern Web Technologies
 
 ---
 
-# 🚍 Featured Project
+# 🚀 Featured Projects
 
-## SafariTix — Smart Transport Platform
+## ⚖️ Rwanda LegalConnect
 
-SafariTix is a modern bus ticket booking and transport management system built to improve how passengers and transport companies interact.
+A full-stack legal information and professional connection platform designed to make legal resources more accessible in Rwanda.
+
+### ✨ Features
+
+- 🔐 JWT authentication & role-based access
+- ⚖️ Legal resource library
+- 🔎 Legal resource search
+- 🤖 Rule-based legal guidance assistant
+- 📝 Legal issue tracking
+- 👨‍⚖️ Legal professional directory
+- 💬 Professional inquiries
+- 📄 Legal document templates
+- 🔖 Saved resources
+- 🔔 Notifications
+- 🛠️ Admin management system
+
+### 🛠 Built With
+
+**Frontend:** React • TypeScript • Tailwind CSS • Vite
+
+**Backend:** Node.js • Express • TypeScript • Prisma
+
+**Database:** PostgreSQL • Neon
+
+### 🔗 Repositories
+
+💻 **Frontend**  
+https://github.com/Micomyiza-Alexis/Rwanda-LegalConnect
+
+⚙️ **Backend**  
+https://github.com/Micomyiza-Alexis/RLC-Backend
+
+---
+
+# 🚍 SafariTix — Smart Transport Platform
+
+SafariTix is a modern bus ticket booking and transport management system designed to improve how passengers and transport companies interact.
 
 ### ✨ Features
 
@@ -84,7 +125,7 @@ An AI-powered health guidance platform focused on making healthcare information 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php" />
 </p>
 
 ### Databases
@@ -93,10 +134,10 @@ An AI-powered health guidance platform focused on making healthcare information 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,docker,vercel" />
 </p>
 
 ---
@@ -104,13 +145,12 @@ An AI-powered health guidance platform focused on making healthcare information 
 # 📈 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Micomyiza-Alexis&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Micomyiza-Alexis&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Micomyiza-Alexis&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Micomyiza-Alexis&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Micomyiza-Alexis&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Micomyiza-Alexis&theme=tokyo-night"/>
 </p>
 
 ---
@@ -118,25 +158,35 @@ An AI-powered health guidance platform focused on making healthcare information 
 # 🏆 Achievements
 
 - 🦈 GitHub Pull Shark x2
-- 💻 Active Full-Stack Developer
-- 🚀 Builder of practical web applications
+- 💻 Full-Stack Developer
+- 🚀 Builder of real-world software systems
 - 📚 Advanced Diploma in Information Technology
+- 🔧 Experience building REST APIs and database-driven applications
 
 ---
 
 # 📚 Currently Learning
 
 - Advanced Backend Development
+- Node.js & TypeScript
+- API Development
 - System Design
+- Software Architecture
 - Artificial Intelligence
 - Cloud Deployment
-- Software Architecture
+- Database Design & Optimization
+
+---
+
+# 🎯 Current Goal
+
+I'm focused on becoming a stronger **backend and full-stack developer** by building real systems, understanding how they work internally, and continuously improving my engineering skills.
 
 ---
 
 # 💡 Philosophy
 
-> *"Great software isn't just code—it's a solution to a real problem."*
+> **"Great software isn't just code — it's a solution to a real problem."**
 
 ---
 
