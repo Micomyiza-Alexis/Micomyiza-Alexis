@@ -160,7 +160,7 @@ An AI-powered health guidance platform focused on making healthcare information 
 - 🦈 GitHub Pull Shark x2
 - 💻 Full-Stack Developer
 - 🚀 Builder of real-world software systems
-- 📚 Advanced Diploma in Information Technology
+- 📚 Advanced Diploma in Information Technology — In Progress
 - 🔧 Experience building REST APIs and database-driven applications
 
 ---
@@ -202,7 +202,7 @@ I'm focused on becoming a stronger **backend and full-stack developer** by build
 <img src="https://img.shields.io/badge/SafariTix-Live%20Demo-0077B6?style=for-the-badge"/>
 </a>
 
-<a href="https://micomyizaalexis.netlify.app/">
+<a href="https://micomyiza-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
 </a>
 
