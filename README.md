@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Micomyiza Alexis</h1>
 
 <p align="center">
-  🚀 Full-Stack Developer • Backend Enthusiast • System Builder • IT Student
+  <strong>Full-Stack Developer • Backend Enthusiast • System Builder</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Developer;Backend+%26+System+Development;Building+Real-World+Systems;React+%7C+Node.js+%7C+PostgreSQL;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Developer;Backend+%26+API+Development;Building+Real-World+Systems;React+%7C+Node.js+%7C+TypeScript;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
@@ -14,22 +14,22 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm **Micomyiza Alexis**, an Information Technology student and full-stack developer passionate about building practical software that solves real-world problems.
+I'm **Micomyiza Alexis**, a full-stack developer focused on building practical software systems that solve real-world problems.
 
-I enjoy turning ideas into functional systems — from designing user interfaces to building APIs, databases, authentication systems, and complete web applications.
+I enjoy working across the stack — from designing interfaces and user experiences to building APIs, authentication systems, databases, business logic, and complete applications.
 
-I'm especially interested in **backend development, system architecture, APIs, and building scalable software**.
+My strongest interests are **backend development, API engineering, database design, system architecture, and scalable software**.
 
-### Currently focused on:
+### What I'm currently focused on
 
-- 🌐 Full-Stack Web Development
-- ⚙️ Backend & API Development
-- 🗄️ PostgreSQL & Database Design
-- 🏗️ Software Architecture & System Design
-- 🤖 Artificial Intelligence
-- ☁️ Cloud & Modern Web Technologies
+* ⚙️ Backend & API Development
+* 🏗️ System Architecture & Software Design
+* 🗄️ PostgreSQL & Database Engineering
+* 🌐 Full-Stack Web Applications
+* 🤖 Artificial Intelligence
+* ☁️ Cloud & Modern Web Technologies
 
 ---
 
@@ -37,67 +37,76 @@ I'm especially interested in **backend development, system architecture, APIs, a
 
 ## ⚖️ Rwanda LegalConnect
 
-A full-stack legal information and professional connection platform designed to make legal resources more accessible in Rwanda.
+**Rwanda LegalConnect** is a full-stack legal information and professional connection platform designed to make legal resources more accessible.
 
-### ✨ Features
+### ✨ Key Features
 
-- 🔐 JWT authentication & role-based access
-- ⚖️ Legal resource library
-- 🔎 Legal resource search
-- 🤖 Rule-based legal guidance assistant
-- 📝 Legal issue tracking
-- 👨‍⚖️ Legal professional directory
-- 💬 Professional inquiries
-- 📄 Legal document templates
-- 🔖 Saved resources
-- 🔔 Notifications
-- 🛠️ Admin management system
+* 🔐 JWT authentication & role-based authorization
+* ⚖️ Legal resource library
+* 🔎 Advanced legal resource search
+* 🤖 Rule-based legal guidance assistant
+* 📝 Legal issue tracking
+* 👨‍⚖️ Legal professional directory
+* 💬 Professional inquiries
+* 📄 Legal document templates
+* 🔖 Saved resources
+* 🔔 Notifications
+* 🛠️ Administrative management system
 
-### 🛠 Built With
+### 🛠️ Technology
 
-**Frontend:** React • TypeScript • Tailwind CSS • Vite
+**Frontend**
 
-**Backend:** Node.js • Express • TypeScript • Prisma
+React • TypeScript • Tailwind CSS • Vite
 
-**Database:** PostgreSQL • Neon
+**Backend**
+
+Node.js • Express • TypeScript • Prisma
+
+**Database**
+
+PostgreSQL • Neon
 
 ### 🔗 Repositories
 
-💻 **Frontend**  
+💻 **Frontend:**
 https://github.com/Micomyiza-Alexis/Rwanda-LegalConnect
 
-⚙️ **Backend**  
+⚙️ **Backend:**
 https://github.com/Micomyiza-Alexis/RLC-Backend
 
 ---
 
-# 🚍 SafariTix — Smart Transport Platform
+## 🚍 SafariTix
 
-SafariTix is a modern bus ticket booking and transport management system designed to improve how passengers and transport companies interact.
+**SafariTix** is a modern bus ticketing and transport management platform connecting passengers, drivers, and transport companies.
 
-### ✨ Features
+The system focuses on digital booking, seat management, schedules, transport operations, and passenger experience.
 
-- 🎫 Online ticket booking
-- 💺 Interactive seat selection
-- 📍 Real-time bus tracking
-- 👤 Secure authentication
-- 🚌 Route & schedule management
-- 📊 Admin dashboard
-- 📱 Responsive design
+### ✨ Key Features
 
-### 🛠 Built With
+* 🎫 Online ticket booking
+* 💺 Interactive seat selection
+* 📅 Trip & schedule management
+* 🚌 Transport company management
+* 👤 Authentication & role-based access
+* 📊 Administrative dashboards
+* 📍 Bus tracking
+* 📱 Responsive passenger experience
+
+### 🛠️ Technology
 
 React • TypeScript • Tailwind CSS • Node.js • Express • PostgreSQL
 
 ### 🔗 Project Links
 
-🌐 **Live Demo**  
+🌐 **Live Demo:**
 https://project-safaritix-transportation.vercel.app/
 
-💻 **Frontend Repository**  
-https://github.com/Micomyiza-Alexis/project_safatiTix
+💻 **Frontend:**
+https://github.com/Micomyiza-Alexis/project-safatiTix
 
-⚙️ **Backend Repository**  
+⚙️ **Backend:**
 https://github.com/Micomyiza-Alexis/backend_v2
 
 ---
@@ -106,11 +115,11 @@ https://github.com/Micomyiza-Alexis/backend_v2
 
 ### 💼 Ogera
 
-A student work platform designed to help learners find flexible work opportunities while balancing academics.
+A student work platform designed to help learners discover flexible work opportunities while balancing their academic commitments.
 
 ### 🏥 MediGuide+
 
-An AI-powered health guidance platform focused on making healthcare information more accessible.
+An AI-powered health information platform designed to make healthcare guidance more accessible through technology.
 
 ---
 
@@ -142,7 +151,7 @@ An AI-powered health guidance platform focused on making healthcare information 
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Micomyiza-Alexis&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -157,36 +166,39 @@ An AI-powered health guidance platform focused on making healthcare information 
 
 # 🏆 Achievements
 
-- 🦈 GitHub Pull Shark x2
-- 💻 Full-Stack Developer
-- 🚀 Builder of real-world software systems
-- 📚 Advanced Diploma in Information Technology — In Progress
-- 🔧 Experience building REST APIs and database-driven applications
+* 🦈 GitHub Pull Shark ×2
+* 💻 Full-Stack Development
+* ⚙️ REST API & Backend Development
+* 🗄️ Database-Driven Application Development
+* 🚀 Real-World Software System Development
+* 🎓 Advanced Diploma in Information Technology — In Progress
 
 ---
 
 # 📚 Currently Learning
 
-- Advanced Backend Development
-- Node.js & TypeScript
-- API Development
-- System Design
-- Software Architecture
-- Artificial Intelligence
-- Cloud Deployment
-- Database Design & Optimization
+* Advanced Backend Engineering
+* TypeScript & Node.js
+* API Architecture
+* System Design
+* Software Architecture
+* Artificial Intelligence
+* Cloud Deployment
+* Database Optimization
 
 ---
 
-# 🎯 Current Goal
+# 🎯 What I'm Building Toward
 
-I'm focused on becoming a stronger **backend and full-stack developer** by building real systems, understanding how they work internally, and continuously improving my engineering skills.
+I'm working toward becoming a stronger **backend-focused software engineer** by building complete systems, understanding the engineering decisions behind them, and continuously improving how I design, develop, test, and deploy software.
+
+I believe the best way to learn software engineering is to **build real things, break them, understand why they broke, and make them better.**
 
 ---
 
-# 💡 Philosophy
+# 💡 Engineering Philosophy
 
-> **"Great software isn't just code — it's a solution to a real problem."**
+> **Great software isn't just code — it's a solution to a real problem.**
 
 ---
 
@@ -215,7 +227,5 @@ I'm focused on becoming a stronger **backend and full-stack developer** by build
 ---
 
 <p align="center">
-
-⭐ If you like my projects, feel free to explore my repositories and follow my journey as I continue building software that makes a difference.
-
+  ⭐ Explore my repositories and follow my journey as I build practical software systems.
 </p>
