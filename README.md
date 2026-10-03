@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Micomyiza Alexis</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer • Backend Enthusiast • System Builder</strong>
+  <strong>Software Engineer • Backend & API Development • System Builder</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Developer;Backend+%26+API+Development;Building+Real-World+Systems;React+%7C+Node.js+%7C+TypeScript;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Engineer;Backend+%26+API+Development;Building+Real-World+Systems;React+%7C+Node.js+%7C+TypeScript;System+Design+%26+Architecture;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
@@ -16,20 +16,21 @@
 
 ## 👨‍💻 About Me
 
-I'm **Micomyiza Alexis**, a full-stack developer focused on building practical software systems that solve real-world problems.
+I'm **Micomyiza Alexis**, a software engineer focused on building practical, scalable software systems that solve real-world problems.
 
-I enjoy working across the stack — from designing interfaces and user experiences to building APIs, authentication systems, databases, business logic, and complete applications.
+I work across the stack, but my strongest interests are **backend engineering, API development, database design, system architecture, and business logic**.
 
-My strongest interests are **backend development, API engineering, database design, system architecture, and scalable software**.
+I enjoy taking an idea from concept to a working system — designing the architecture, building the APIs, modeling the data, creating the interface, and connecting everything together.
 
-### What I'm currently focused on
+### What I'm focused on
 
-* ⚙️ Backend & API Development
-* 🏗️ System Architecture & Software Design
-* 🗄️ PostgreSQL & Database Engineering
-* 🌐 Full-Stack Web Applications
-* 🤖 Artificial Intelligence
-* ☁️ Cloud & Modern Web Technologies
+- ⚙️ Backend & API Engineering
+- 🏗️ System Architecture & Software Design
+- 🗄️ PostgreSQL & Database Engineering
+- 🌐 Full-Stack Web Applications
+- 🤖 Artificial Intelligence
+- ☁️ Cloud & Modern Web Technologies
+- 🔐 Authentication, Authorization & Security
 
 ---
 
@@ -41,17 +42,17 @@ My strongest interests are **backend development, API engineering, database desi
 
 ### ✨ Key Features
 
-* 🔐 JWT authentication & role-based authorization
-* ⚖️ Legal resource library
-* 🔎 Advanced legal resource search
-* 🤖 Rule-based legal guidance assistant
-* 📝 Legal issue tracking
-* 👨‍⚖️ Legal professional directory
-* 💬 Professional inquiries
-* 📄 Legal document templates
-* 🔖 Saved resources
-* 🔔 Notifications
-* 🛠️ Administrative management system
+- 🔐 JWT authentication & role-based authorization
+- ⚖️ Legal resource library
+- 🔎 Advanced legal resource search
+- 🤖 Rule-based legal guidance assistant
+- 📝 Legal issue tracking
+- 👨‍⚖️ Legal professional directory
+- 💬 Professional inquiries
+- 📄 Legal document templates
+- 🔖 Saved resources
+- 🔔 Notifications
+- 🛠️ Administrative management system
 
 ### 🛠️ Technology
 
@@ -69,10 +70,10 @@ PostgreSQL • Neon
 
 ### 🔗 Repositories
 
-💻 **Frontend:**
+💻 **Frontend:**  
 https://github.com/Micomyiza-Alexis/Rwanda-LegalConnect
 
-⚙️ **Backend:**
+⚙️ **Backend:**  
 https://github.com/Micomyiza-Alexis/RLC-Backend
 
 ---
@@ -85,14 +86,14 @@ The system focuses on digital booking, seat management, schedules, transport ope
 
 ### ✨ Key Features
 
-* 🎫 Online ticket booking
-* 💺 Interactive seat selection
-* 📅 Trip & schedule management
-* 🚌 Transport company management
-* 👤 Authentication & role-based access
-* 📊 Administrative dashboards
-* 📍 Bus tracking
-* 📱 Responsive passenger experience
+- 🎫 Online ticket booking
+- 💺 Interactive seat selection
+- 📅 Trip & schedule management
+- 🚌 Transport company management
+- 👤 Authentication & role-based access
+- 📊 Administrative dashboards
+- 📍 Bus tracking
+- 📱 Responsive passenger experience
 
 ### 🛠️ Technology
 
@@ -100,13 +101,13 @@ React • TypeScript • Tailwind CSS • Node.js • Express • PostgreSQL
 
 ### 🔗 Project Links
 
-🌐 **Live Demo:**
+🌐 **Live Demo:**  
 https://project-safaritix-transportation.vercel.app/
 
-💻 **Frontend:**
+💻 **Frontend:**  
 https://github.com/Micomyiza-Alexis/project-safatiTix
 
-⚙️ **Backend:**
+⚙️ **Backend:**  
 https://github.com/Micomyiza-Alexis/backend_v2
 
 ---
@@ -128,25 +129,25 @@ An AI-powered health information platform designed to make healthcare guidance m
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,docker,vercel" />
 </p>
 
 ---
@@ -164,35 +165,43 @@ An AI-powered health information platform designed to make healthcare guidance m
 
 ---
 
-# 🏆 Achievements
+# 🏆 Highlights
 
-* 🦈 GitHub Pull Shark ×2
-* 💻 Full-Stack Development
-* ⚙️ REST API & Backend Development
-* 🗄️ Database-Driven Application Development
-* 🚀 Real-World Software System Development
-* 🎓 Advanced Diploma in Information Technology — In Progress
+- 🦈 GitHub Pull Shark ×2
+- ⚙️ Full-Stack & Backend Development
+- 🔌 REST API Engineering
+- 🗄️ Database-Driven Systems
+- 🏗️ Software Architecture & System Design
+- 🚀 Real-World Software Development
+- 🎓 Advanced Diploma in Information Technology
 
 ---
 
 # 📚 Currently Learning
 
-* Advanced Backend Engineering
-* TypeScript & Node.js
-* API Architecture
-* System Design
-* Software Architecture
-* Artificial Intelligence
-* Cloud Deployment
-* Database Optimization
+- Advanced Backend Engineering
+- TypeScript & Node.js
+- API Architecture
+- System Design
+- Software Architecture
+- Artificial Intelligence
+- Cloud Deployment
+- Database Optimization
+- Application Security
 
 ---
 
 # 🎯 What I'm Building Toward
 
-I'm working toward becoming a stronger **backend-focused software engineer** by building complete systems, understanding the engineering decisions behind them, and continuously improving how I design, develop, test, and deploy software.
+I'm building toward becoming a stronger **backend-focused software engineer** by developing complete systems and understanding the engineering decisions behind them.
 
-I believe the best way to learn software engineering is to **build real things, break them, understand why they broke, and make them better.**
+My goal isn't simply to write code that works.
+
+I want to understand **why a system is designed a certain way, how its components communicate, how data flows through it, how it scales, and how it can be made more reliable and maintainable.**
+
+I believe the best way to learn software engineering is to:
+
+> **Build real things. Break them. Understand why they broke. Then make them better.**
 
 ---
 
@@ -207,19 +216,19 @@ I believe the best way to learn software engineering is to **build real things, 
 <p align="center">
 
 <a href="https://github.com/Micomyiza-Alexis">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://project-safaritix-transportation.vercel.app/">
-<img src="https://img.shields.io/badge/SafariTix-Live%20Demo-0077B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SafariTix-Live%20Demo-0077B6?style=for-the-badge"/>
 </a>
 
 <a href="https://micomyiza-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
 </a>
 
 <a href="mailto:micomyizaa742@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
