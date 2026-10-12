@@ -1,19 +1,19 @@
-# 👨‍💻 Micomyiza Alexis — Software Engineer
+# 👨‍💻 Micomyiza Alexis
+### Backend-Focused Software Engineer · APIs · Data Systems · Applied AI
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Micomyiza%20Alexis&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20API%20Engineering%20%E2%80%A2%20System%20Builder&descSize=17&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:155E75,100:2563EB&height=220&section=header&text=Micomyiza%20Alexis&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Engineering%20Reliable%20Software%20Systems&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Micomyiza Alexis — Software Engineer" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+real-world+software+systems;Backend+%26+API+engineering;Data-driven+applications+%26+applied+AI;React+%7C+Node.js+%7C+Python+%7C+PostgreSQL;From+ideas+to+working+software" alt="Software engineering interests" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Engineering+%26+API+Design;Building+Data-Driven+Applications;From+Business+Logic+to+Production+Systems;Python+%7C+Node.js+%7C+PostgreSQL;Understand.+Build.+Test.+Improve." alt="Software engineering focus" />
 
 <br/>
 
-<a href="https://micomyiza-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/Micomyiza-Alexis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://project-safaritix-transportation.vercel.app/"><img src="https://img.shields.io/badge/SafariTix-0EA5E9?style=for-the-badge" /></a>
-<a href="mailto:micomyizaa742@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://micomyiza-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/Micomyiza-Alexis"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:micomyizaa742@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Micomyiza-Alexis&label=Profile%20Views&color=F59E0B&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Micomyiza-Alexis&label=Profile%20Views&color=0891B2&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -21,76 +21,75 @@
 
 ## 👋 About Me
 
-I'm **Micomyiza Alexis**, a software engineer focused on building practical, reliable, and scalable software systems.
+I'm **Micomyiza Alexis**, a software engineer based in Rwanda, focused on building practical, maintainable, and data-driven software systems.
 
-I enjoy turning ideas into working products, from designing backend architecture and database schemas to developing APIs, integrating frontend applications, implementing authentication, and solving real-world engineering problems.
+My primary interest is **backend engineering** — designing APIs, modeling data, implementing business logic, securing application workflows, and connecting services into complete products.
 
-My strongest interest is **backend engineering**. I care about what happens behind the interface: how systems communicate, how data is modeled, how business rules are enforced, how security is implemented, and how applications remain maintainable as they grow.
+I enjoy working across the software development lifecycle, from understanding a problem and designing its architecture to implementing features, debugging failures, and improving system reliability.
 
-I also explore artificial intelligence, data-driven applications, mobile development, and system design.
+I'm also exploring applied AI, machine learning, data analysis, and mobile development to build software that addresses real-world challenges.
 
-- ⚙️ **Primary focus:** Backend engineering and API development
-- 🏗️ **Engineering interests:** System architecture, database design, application security, and integration
-- 🤖 **Exploring:** Applied AI, data analytics, and intelligent software systems
-- 🌍 **Based in:** Rwanda
-- 🎓 **Education:** Advanced Diploma in Information Technology, RP Tumba College
-- 🚀 **Approach:** Learn by building, testing, debugging, and improving real systems
+- ⚙️ **Focus:** Backend engineering, REST APIs, and system integration
+- 🗄️ **Data:** PostgreSQL, relational database design, and data-driven applications
+- 🤖 **Exploring:** Applied AI, machine learning, and analytical systems
+- 🌐 **Also build:** Full-stack web applications and mobile experiences
+- 🎓 **Education:** Advanced Diploma in Information Technology — RP Tumba College
+- 🌍 **Location:** Rwanda
 
-> I don't just want to make software work. I want to understand why it works, how it can fail, and how to make it better.
+> I want to understand not only how software works, but also how it fails, how to make it reliable, and how to improve it.
 
----
-
-## 🧭 What I Do
+## 🧭 Engineering Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Backend Engineering
+### ⚙️ Backend & API Engineering
 
-- REST API development
-- Business logic and service architecture
+- REST API design and implementation
+- Business logic and service layers
 - Authentication and authorization
-- Input validation and error handling
+- Request validation and error handling
 - API integration and testing
 - Reliable application workflows
 
 </td>
 <td width="50%" valign="top">
 
-### 🗄️ Data & Architecture
+### 🗄️ Data & System Design
 
-- Relational database design
+- Relational database modeling
 - PostgreSQL and SQL
-- Data modeling and relationships
-- Database-driven applications
-- System architecture and integration
-- Performance and maintainability
+- Data integrity and relationships
+- Modular application architecture
+- Backend/frontend integration
+- Maintainability and performance
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Full-Stack Development
+### 🌐 Full-Stack & Mobile
 
-- React and Next.js applications
+- React and Next.js
 - TypeScript and JavaScript
-- Responsive user interfaces
-- Frontend-to-backend integration
-- Admin dashboards and management systems
+- Responsive web applications
+- Administrative dashboards
+- React Native and Expo
+- API-connected user experiences
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Emerging Technologies
+### 🤖 AI & Data Applications
 
 - Python and FastAPI
-- AI-assisted applications
-- Data analysis and simulation
-- Applied machine learning
-- Mobile application development
-- Research-driven software prototypes
+- Data processing and analysis
+- Machine-learning-based approaches
+- Simulation and decision-support systems
+- AI-assisted application development
+- Research-driven prototypes
 
 </td>
 </tr>
@@ -100,21 +99,21 @@ I also explore artificial intelligence, data-driven applications, mobile develop
 
 ## 🚀 Featured Projects
 
-These projects represent different areas of my engineering work: transportation technology, data-driven policy simulation, legal information, and AI-assisted systems.
+My projects explore different engineering challenges, including transportation systems, social protection analysis, legal information access, and AI-assisted applications.
 
-### 🚍 1. SafariTix — Bus Ticketing & Transport Management
+### 🚍 01. SafariTix — Transportation & Ticketing Platform
 
-A transportation platform designed to connect passengers, drivers, and transport companies through a unified digital experience.
+A bus ticketing and transport management platform designed to connect passengers, transport companies, and operational workflows.
 
-**Engineering highlights**
+**Engineering focus**
 
 - 🎫 Ticket booking and trip management
 - 💺 Seat selection and physical seat inventory
 - 🚌 Bus, route, schedule, and company management
-- 🔐 Authenticated workflows and role-based access
+- 🔐 Authentication and role-aware application workflows
 - 📱 Mobile application development
-- 🔗 Backend API integration for real booking and ticket data
-- 📊 Management dashboards and transport operations
+- 🔗 Integration between backend APIs and client applications
+- 📊 Transport management interfaces
 
 **Technology stack**
 
@@ -129,25 +128,25 @@ A transportation platform designed to connect passengers, drivers, and transport
 **Explore**
 
 - [Live application](https://project-safaritix-transportation.vercel.app/)
-- [Frontend repository](https://github.com/Micomyiza-Alexis/project-safatiTix)
-- [Backend repository](https://github.com/Micomyiza-Alexis/backend_v2)
-- [Mobile repository](https://github.com/Micomyiza-Alexis/safaritix-mobile)
+- [Web frontend](https://github.com/Micomyiza-Alexis/project-safatiTix)
+- [Backend API](https://github.com/Micomyiza-Alexis/backend_v2)
+- [Mobile application](https://github.com/Micomyiza-Alexis/safaritix-mobile)
 
 ---
 
-### 📊 2. SPTA Simulator — Social Protection Targeting Analysis
+### 📊 02. SPTA Simulator — Social Protection Targeting Analysis
 
-A research-oriented simulator developed for the **NISR 2026 Big Data Hackathon, Track 2**. The project explores data-driven approaches to targeting social protection interventions.
+A research-oriented simulation platform developed for the **NISR 2026 Big Data Hackathon, Track 2**, exploring data-driven approaches to social protection targeting.
 
-**Engineering highlights**
+**Engineering focus**
 
 - 📈 Household-level data processing and analysis
-- 🧮 Comparison of targeting strategies across budget scenarios
+- 🧮 Comparison of targeting strategies under different budget scenarios
 - 🌳 Rule-based and machine-learning-based targeting approaches
-- 🔬 Robustness analysis for evaluating targeting results
-- 🔌 FastAPI endpoints serving computed simulation results
-- 📊 Next.js dashboard connected to real backend results
-- 🧾 Research-oriented methodology and reproducible result artifacts
+- 🔬 Robustness analysis of simulation results
+- 🔌 FastAPI backend for simulation-related operations
+- 📊 Next.js dashboard integration with backend results
+- 🧾 Research methodology and reproducible analysis
 
 **Technology stack**
 
@@ -156,26 +155,25 @@ A research-oriented simulator developed for the **NISR 2026 Big Data Hackathon, 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-2563EB?style=flat-square)
 
 **Repository:** [SPTA Simulator](https://github.com/Micomyiza-Alexis/SPTA_Simulator)
 
-This project represents my interest in combining software engineering, data analysis, and evidence-based decision-making to solve complex problems.
+This project brings together software engineering, data analysis, and evidence-based decision-making to explore complex public-policy problems.
 
 ---
 
-### ⚖️ 3. Rwanda LegalConnect — Legal Information Platform
+### ⚖️ 03. Rwanda LegalConnect — Legal Information Platform
 
-A full-stack platform designed to improve access to legal information, resources, and legal professionals.
+A full-stack platform concept designed to improve access to legal information, legal resources, and legal professionals.
 
-**Engineering highlights**
+**Engineering focus**
 
-- 🔐 JWT authentication and role-based authorization
+- 🔐 JWT-based authentication and role-based authorization
 - 🔎 Searchable legal resource library
-- 🤖 Rule-based legal guidance assistant
+- 🤖 Rule-based legal information assistant
 - 👨‍⚖️ Legal professional directory and inquiries
 - 📄 Document templates and saved resources
-- 🔔 Notifications and administrative management
+- 🔔 Notifications and administrative workflows
 
 **Technology stack**
 
@@ -194,17 +192,17 @@ A full-stack platform designed to improve access to legal information, resources
 
 ---
 
-### 🌱 4. LandGuard AI — AI-Assisted Land Information Systems
+### 🌱 04. LandGuard AI — AI-Assisted Land Information Systems
 
-An evolving project exploring how AI-enabled software and structured data can support land-related information and workflows.
+An evolving project exploring how AI-assisted software and structured data can support land-related information and workflows.
 
 **Engineering focus**
 
 - 🧠 AI-assisted application capabilities
+- 🐍 Python and FastAPI backend development
 - 🗄️ PostgreSQL-first database architecture
-- 🔌 Backend API development with Python and FastAPI
-- 🏗️ Modular backend design and service integration
-- 🛡️ Reliable data handling and maintainable application structure
+- 🧩 Modular services and API integration
+- 🛡️ Structured data handling and maintainable application design
 
 **Technology stack**
 
@@ -212,7 +210,7 @@ An evolving project exploring how AI-enabled software and structured data can su
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-This project is part of my exploration of AI-assisted systems and the engineering needed to turn intelligent features into dependable software.
+This project reflects my interest in translating intelligent capabilities into dependable, data-driven software.
 
 ---
 
@@ -220,13 +218,17 @@ This project is part of my exploration of AI-assisted systems and the engineerin
 
 | Project | Focus |
 |---|---|
-| 💼 **Ogera** | Student work platform connecting learners with flexible employment opportunities. |
-| 🏥 **MediGuide+** | AI-oriented health information and guidance platform. |
-| 🏫 **School Website System** | Configurable school website architecture for reusable institutional websites. |
+| **Ogera** | Student employment and flexible work opportunities |
+| **MediGuide+** | AI-oriented health information and guidance |
+| **School Website System** | Configurable architecture for reusable school websites |
+
+These projects represent additional areas of exploration and product development.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Technology Stack
+
+The following tools represent my development stack and areas of practical work and continued learning.
 
 ### Languages
 
@@ -234,7 +236,7 @@ This project is part of my exploration of AI-assisted systems and the engineerin
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frontend & Mobile
 
@@ -278,49 +280,47 @@ This project is part of my exploration of AI-assisted systems and the engineerin
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Micomyiza-Alexis&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Micomyiza-Alexis&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micomyiza-Alexis&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micomyiza-Alexis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages" />
 
-<img src="https://streak-stats.demolab.com/?user=Micomyiza-Alexis&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Micomyiza-Alexis&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Micomyiza-Alexis&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Micomyiza-Alexis&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
 ---
 
-## 🧠 My Engineering Philosophy
+## 🧠 Engineering Principles
 
-I believe strong engineers go beyond writing code. They understand the problems, question assumptions, make thoughtful design decisions, and test whether their solutions actually work.
+I believe good software engineering is about more than getting code to run. It means making deliberate decisions, understanding trade-offs, and building systems that can be maintained and improved.
 
-The principles I try to follow:
+- 🧩 **Understand the problem first.** Choose technologies to serve the requirements.
+- 🏗️ **Separate responsibilities.** Keep business logic, data access, and interfaces organized.
+- 🔐 **Protect data and workflows.** Prioritize validation, authorization, and data integrity.
+- 🔗 **Integrate real systems.** Build against actual APIs and data rather than relying on mock behavior indefinitely.
+- 🧪 **Investigate failures.** Test assumptions, trace bugs, and verify fixes.
+- 📚 **Keep learning.** Strengthen fundamentals through implementation and review.
 
-- 🧩 **Understand the problem before choosing the technology.**
-- 🏗️ **Design systems around clear responsibilities.**
-- 🔐 **Treat security, validation, and data integrity as essential.**
-- 🔗 **Build integrations that work with real data, not just attractive demos.**
-- 🧪 **Test assumptions and investigate failures instead of hiding them.**
-- 📚 **Keep learning and improve through practical experience.**
-
-> **Build real things. Break them. Understand why they broke. Then make them better.**
+> **Build real things. Understand how they work. Learn from how they fail. Make them better.**
 
 ---
 
-## 🎯 What I'm Working Toward
+## 🎯 Where I'm Headed
 
-My long-term goal is to become an exceptional backend-focused software engineer who can design, build, and maintain complete software systems.
+My long-term goal is to become an exceptional backend-focused software engineer capable of designing, building, and maintaining reliable software systems.
 
 I'm particularly interested in:
 
-- Advanced backend engineering and distributed systems
-- API architecture, integrations, and system reliability
-- Database design, performance, and data integrity
+- Advanced backend architecture and distributed systems
+- API design, service integration, and system reliability
+- Database performance, consistency, and data integrity
+- Application security and production engineering
 - Applied AI and data-driven decision-support systems
-- Secure, production-oriented software development
-- Turning useful ideas into products that solve real problems
+- Turning useful ideas into sustainable software products
 
-I'm not interested in learning technologies just to list them on a profile. I want to understand them well enough to use them to build dependable software.
+I want my work to demonstrate not just familiarity with tools, but the ability to use them thoughtfully to solve meaningful problems.
 
 ---
 
@@ -328,15 +328,14 @@ I'm not interested in learning technologies just to list them on a profile. I wa
 
 <div align="center">
 
-<a href="https://github.com/Micomyiza-Alexis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://micomyiza-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://project-safaritix-transportation.vercel.app/"><img src="https://img.shields.io/badge/SafariTix-0EA5E9?style=for-the-badge" /></a>
-<a href="mailto:micomyizaa742@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Micomyiza-Alexis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://micomyiza-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:micomyizaa742@gmail.com"><img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
-⭐ If you're interested in practical software engineering, backend systems, APIs, and applied AI, explore my repositories.
+*Interested in backend engineering, APIs, data systems, or applied AI? Let's connect.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:155E75,100:2563EB&height=110&section=footer" width="100%" alt="" />
 
 </div>
