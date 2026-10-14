@@ -37,7 +37,13 @@ I'm also exploring applied AI, machine learning, data analysis, and mobile devel
 - 🌍 **Location:** Rwanda
 
 > I want to understand not only how software works, but also how it fails, how to make it reliable, and how to improve it.
+## 🔨 Currently Building
 
+- 🚍 **SafariTix:** Improving a bus ticketing platform with backend API integration, ticket validation, QR-code workflows, and real-time transport features.
+- 📊 **SPTA Simulator:** Developing a data-driven social protection targeting simulator for the NISR 2026 Big Data Hackathon, combining simulation methods, analytical workflows, and API-connected dashboards.
+- 🌱 **LandGuard AI:** Building an AI-assisted land transaction verification system focused on fraud-risk indicators, data integrity, and decision support.
+
+**My current engineering priorities:** Reliable APIs, PostgreSQL data integrity, secure business workflows, meaningful testing, and integrating real backend services into usable products.
 ## 🧭 Engineering Focus
 
 <table>
