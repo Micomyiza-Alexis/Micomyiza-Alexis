@@ -1,17 +1,17 @@
-# 👨‍💻 Micomyiza Alexis
-### Backend-Focused Software Engineer · APIs · Data Systems · Applied AI
+# Micomyiza Alexis
+### Backend-Focused Software Engineer | APIs · Data Systems · Applied AI
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:155E75,100:2563EB&height=220&section=header&text=Micomyiza%20Alexis&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Engineering%20Reliable%20Software%20Systems&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Micomyiza Alexis — Software Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:155E75,100:2563EB&height=220&section=header&text=Micomyiza%20Alexis&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Designing%20Reliable%20Software%20Systems&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Micomyiza Alexis — Backend-Focused Software Engineer" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Engineering+%26+API+Design;Building+Data-Driven+Applications;From+Business+Logic+to+Production+Systems;Python+%7C+Node.js+%7C+PostgreSQL;Understand.+Build.+Test.+Improve." alt="Software engineering focus" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Backend+Engineering+%26+API+Design;Building+Data-Driven+Applications;Python+%7C+Node.js+%7C+PostgreSQL;From+Business+Logic+to+Working+Products;Understand.+Build.+Test.+Improve." alt="Backend engineering, APIs, and data-driven applications" />
 
 <br/>
 
 <a href="https://micomyiza-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/Micomyiza-Alexis"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:micomyizaa742@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Micomyiza-Alexis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:micomyizaa742@gmail.com"><img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Micomyiza-Alexis&label=Profile%20Views&color=0891B2&style=flat-square" alt="Profile views" />
 
@@ -21,105 +21,51 @@
 
 ## 👋 About Me
 
-I'm **Micomyiza Alexis**, a software engineer based in Rwanda, focused on building practical, maintainable, and data-driven software systems.
+I'm **Micomyiza Alexis**, a software engineer based in Rwanda with a strong interest in backend engineering, application architecture, and data-driven software.
 
-My primary interest is **backend engineering** — designing APIs, modeling data, implementing business logic, securing application workflows, and connecting services into complete products.
+I enjoy building systems that do more than look good on the surface. My focus is on the engineering behind them: designing APIs, modeling relational data, implementing business rules, securing application workflows, and connecting services into reliable products.
 
-I enjoy working across the software development lifecycle, from understanding a problem and designing its architecture to implementing features, debugging failures, and improving system reliability.
+I work across the software development lifecycle, from understanding requirements and designing solutions to integrating APIs, investigating bugs, testing behavior, and improving maintainability.
 
-I'm also exploring applied AI, machine learning, data analysis, and mobile development to build software that addresses real-world challenges.
-
-- ⚙️ **Focus:** Backend engineering, REST APIs, and system integration
-- 🗄️ **Data:** PostgreSQL, relational database design, and data-driven applications
-- 🤖 **Exploring:** Applied AI, machine learning, and analytical systems
-- 🌐 **Also build:** Full-stack web applications and mobile experiences
+- ⚙️ **Primary focus:** Backend development, REST APIs, and system integration
+- 🗄️ **Data engineering:** SQL, PostgreSQL, database design, and data integrity
+- 🐍 **Applied AI:** Python, data analysis, simulation, and intelligent applications
+- 🌐 **Full-stack development:** React, Next.js, TypeScript, and Node.js
+- 📱 **Mobile development:** React Native and Expo
 - 🎓 **Education:** Advanced Diploma in Information Technology — RP Tumba College
-- 🌍 **Location:** Rwanda
+- 🌍 **Based in:** Rwanda
 
 > I want to understand not only how software works, but also how it fails, how to make it reliable, and how to improve it.
-## 🔨 Currently Building
 
-- 🚍 **SafariTix:** Improving a bus ticketing platform with backend API integration, ticket validation, QR-code workflows, and real-time transport features.
-- 📊 **SPTA Simulator:** Developing a data-driven social protection targeting simulator for the NISR 2026 Big Data Hackathon, combining simulation methods, analytical workflows, and API-connected dashboards.
-- 🌱 **LandGuard AI:** Building an AI-assisted land transaction verification system focused on fraud-risk indicators, data integrity, and decision support.
+## 🔨 What I'm Building
 
-**My current engineering priorities:** Reliable APIs, PostgreSQL data integrity, secure business workflows, meaningful testing, and integrating real backend services into usable products.
-## 🧭 Engineering Focus
+| Project | Focus | Engineering Challenge |
+|---|---|---|
+| 🚍 **SafariTix** | Transportation and ticketing | Ticket lifecycle, API integration, trip management, and real-time tracking |
+| 📊 **SPTA Simulator** | Social protection analysis | Data processing, targeting simulations, and evidence-based comparisons |
+| ⚖️ **Rwanda LegalConnect** | Legal information access | Authentication, structured legal resources, and role-based workflows |
+| 🌱 **LandGuard AI** | Land information systems | Data integrity, fraud-risk indicators, and AI-assisted decision support |
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend & API Engineering
-
-- REST API design and implementation
-- Business logic and service layers
-- Authentication and authorization
-- Request validation and error handling
-- API integration and testing
-- Reliable application workflows
-
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ Data & System Design
-
-- Relational database modeling
-- PostgreSQL and SQL
-- Data integrity and relationships
-- Modular application architecture
-- Backend/frontend integration
-- Maintainability and performance
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Full-Stack & Mobile
-
-- React and Next.js
-- TypeScript and JavaScript
-- Responsive web applications
-- Administrative dashboards
-- React Native and Expo
-- API-connected user experiences
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI & Data Applications
-
-- Python and FastAPI
-- Data processing and analysis
-- Machine-learning-based approaches
-- Simulation and decision-support systems
-- AI-assisted application development
-- Research-driven prototypes
-
-</td>
-</tr>
-</table>
+My current priorities are backend reliability, database consistency, secure business logic, meaningful testing, and building useful features on top of real application services.
 
 ---
 
 ## 🚀 Featured Projects
 
-My projects explore different engineering challenges, including transportation systems, social protection analysis, legal information access, and AI-assisted applications.
-
 ### 🚍 01. SafariTix — Transportation & Ticketing Platform
 
-A bus ticketing and transport management platform designed to connect passengers, transport companies, and operational workflows.
+A transportation platform designed to connect passengers, drivers, and transport companies through digital ticketing and trip-management workflows.
 
-**Engineering focus**
+**What I'm engineering**
 
-- 🎫 Ticket booking and trip management
-- 💺 Seat selection and physical seat inventory
-- 🚌 Bus, route, schedule, and company management
+- 🎫 Ticket booking, retrieval, and validation workflows
+- 🚌 Bus, route, schedule, and trip management
+- 💺 Physical seat inventory and booking consistency
 - 🔐 Authentication and role-aware application workflows
-- 📱 Mobile application development
-- 🔗 Integration between backend APIs and client applications
-- 📊 Transport management interfaces
+- 📱 Mobile application development with React Native and Expo
+- 📍 Integration of backend services with live vehicle tracking
+- 🔗 API integration between web and mobile clients
+- 🧪 Debugging and verification of cross-platform application behavior
 
 **Technology stack**
 
@@ -131,52 +77,52 @@ A bus ticketing and transport management platform designed to connect passengers
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-**Explore**
+**Explore the project**
 
 - [Live application](https://project-safaritix-transportation.vercel.app/)
-- [Web frontend](https://github.com/Micomyiza-Alexis/project-safatiTix)
-- [Backend API](https://github.com/Micomyiza-Alexis/backend_v2)
-- [Mobile application](https://github.com/Micomyiza-Alexis/safaritix-mobile)
+- [Web frontend repository](https://github.com/Micomyiza-Alexis/project-safatiTix)
+- [Backend API repository](https://github.com/Micomyiza-Alexis/backend_v2)
+- [Mobile application repository](https://github.com/Micomyiza-Alexis/safaritix-mobile)
 
 ---
 
 ### 📊 02. SPTA Simulator — Social Protection Targeting Analysis
 
-A research-oriented simulation platform developed for the **NISR 2026 Big Data Hackathon, Track 2**, exploring data-driven approaches to social protection targeting.
+A data-driven simulation platform developed for the **NISR 2026 Big Data Hackathon, Track 2**. The project explores how different targeting strategies can inform social protection decisions under varying resource and budget constraints.
 
-**Engineering focus**
+**What I'm engineering**
 
 - 📈 Household-level data processing and analysis
-- 🧮 Comparison of targeting strategies under different budget scenarios
-- 🌳 Rule-based and machine-learning-based targeting approaches
-- 🔬 Robustness analysis of simulation results
-- 🔌 FastAPI backend for simulation-related operations
-- 📊 Next.js dashboard integration with backend results
-- 🧾 Research methodology and reproducible analysis
+- 🧮 Simulation of alternative targeting strategies
+- 🌳 Rule-based and machine-learning-based approaches
+- 📊 Backend-connected analytical dashboards
+- 🔬 Robustness analysis of targeting results
+- 🔌 FastAPI endpoints for simulation-related operations
+- 🧾 Reproducible analytical workflows and research-oriented evaluation
 
 **Technology stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Repository:** [SPTA Simulator](https://github.com/Micomyiza-Alexis/SPTA_Simulator)
 
-This project brings together software engineering, data analysis, and evidence-based decision-making to explore complex public-policy problems.
+This project brings together software engineering, statistical analysis, simulation, and decision support to investigate a real-world public-policy challenge.
 
 ---
 
 ### ⚖️ 03. Rwanda LegalConnect — Legal Information Platform
 
-A full-stack platform concept designed to improve access to legal information, legal resources, and legal professionals.
+A full-stack platform concept focused on improving access to legal information, useful resources, and legal professionals.
 
-**Engineering focus**
+**Planned and implemented areas of development**
 
 - 🔐 JWT-based authentication and role-based authorization
 - 🔎 Searchable legal resource library
-- 🤖 Rule-based legal information assistant
+- 🤖 Rule-based legal information assistance
 - 👨‍⚖️ Legal professional directory and inquiries
 - 📄 Document templates and saved resources
 - 🔔 Notifications and administrative workflows
@@ -191,7 +137,7 @@ A full-stack platform concept designed to improve access to legal information, l
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Explore**
+**Explore the repositories**
 
 - [Frontend repository](https://github.com/Micomyiza-Alexis/Rwanda-LegalConnect)
 - [Backend repository](https://github.com/Micomyiza-Alexis/RLC-Backend)
@@ -200,41 +146,42 @@ A full-stack platform concept designed to improve access to legal information, l
 
 ### 🌱 04. LandGuard AI — AI-Assisted Land Information Systems
 
-An evolving project exploring how AI-assisted software and structured data can support land-related information and workflows.
+An evolving project exploring how structured data and AI-assisted workflows could help identify potential risks in land-related transactions and support more informed decisions.
 
-**Engineering focus**
+**Engineering direction**
 
-- 🧠 AI-assisted application capabilities
-- 🐍 Python and FastAPI backend development
-- 🗄️ PostgreSQL-first database architecture
+- 🧠 AI-assisted information analysis
+- 🐍 Python and FastAPI backend services
+- 🗄️ PostgreSQL-oriented data architecture
 - 🧩 Modular services and API integration
-- 🛡️ Structured data handling and maintainable application design
+- 🛡️ Data validation and integrity checks
+- 🔎 Potential fraud-risk indicators and decision support
 
-**Technology stack**
+**Technology direction**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-This project reflects my interest in translating intelligent capabilities into dependable, data-driven software.
+The objective is to explore practical ways to turn complex information into useful, explainable, and maintainable software capabilities.
 
 ---
 
-### 💡 Other Projects
+### 💡 Other Projects & Experiments
 
-| Project | Focus |
+| Project | Area of Exploration |
 |---|---|
 | **Ogera** | Student employment and flexible work opportunities |
 | **MediGuide+** | AI-oriented health information and guidance |
-| **School Website System** | Configurable architecture for reusable school websites |
+| **School Website System** | Reusable architecture for configurable school websites |
 
-These projects represent additional areas of exploration and product development.
+These projects reflect my broader interest in applying software to practical challenges across different industries.
 
 ---
 
 ## 🛠️ Technology Stack
 
-The following tools represent my development stack and areas of practical work and continued learning.
+My core development stack centers on backend services, relational databases, and full-stack application integration.
 
 ### Languages
 
@@ -243,16 +190,6 @@ The following tools represent my development stack and areas of practical work a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Frontend & Mobile
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Backend & APIs
 
@@ -270,13 +207,23 @@ The following tools represent my development stack and areas of practical work a
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
+### Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
@@ -300,33 +247,33 @@ The following tools represent my development stack and areas of practical work a
 
 ## 🧠 Engineering Principles
 
-I believe good software engineering is about more than getting code to run. It means making deliberate decisions, understanding trade-offs, and building systems that can be maintained and improved.
+I believe good engineering is about more than getting code to run. It means understanding the problem, making deliberate trade-offs, and building software that can be tested, maintained, and improved.
 
-- 🧩 **Understand the problem first.** Choose technologies to serve the requirements.
-- 🏗️ **Separate responsibilities.** Keep business logic, data access, and interfaces organized.
-- 🔐 **Protect data and workflows.** Prioritize validation, authorization, and data integrity.
-- 🔗 **Integrate real systems.** Build against actual APIs and data rather than relying on mock behavior indefinitely.
-- 🧪 **Investigate failures.** Test assumptions, trace bugs, and verify fixes.
-- 📚 **Keep learning.** Strengthen fundamentals through implementation and review.
+- 🧩 **Understand the problem.** Build around real requirements rather than assumptions.
+- 🏗️ **Separate responsibilities.** Keep business logic, data access, and presentation organized.
+- 🔐 **Protect data and workflows.** Apply validation, authorization, and integrity checks where they matter.
+- 🔗 **Integrate real services.** Verify behavior against actual APIs and data, not only mock responses.
+- 🧪 **Investigate failures.** Reproduce bugs, trace their causes, and verify fixes.
+- 📚 **Strengthen fundamentals.** Learn through implementation, testing, documentation, and review.
 
 > **Build real things. Understand how they work. Learn from how they fail. Make them better.**
 
 ---
 
-## 🎯 Where I'm Headed
+## 🎯 What I'm Working Toward
 
-My long-term goal is to become an exceptional backend-focused software engineer capable of designing, building, and maintaining reliable software systems.
+My long-term goal is to become an exceptional backend-focused software engineer capable of designing and maintaining dependable software systems.
 
 I'm particularly interested in:
 
-- Advanced backend architecture and distributed systems
+- Distributed systems and backend architecture
 - API design, service integration, and system reliability
 - Database performance, consistency, and data integrity
 - Application security and production engineering
 - Applied AI and data-driven decision-support systems
-- Turning useful ideas into sustainable software products
+- Building sustainable software products that solve meaningful problems
 
-I want my work to demonstrate not just familiarity with tools, but the ability to use them thoughtfully to solve meaningful problems.
+I want my work to demonstrate not just familiarity with technologies, but the ability to apply them thoughtfully to real-world challenges.
 
 ---
 
