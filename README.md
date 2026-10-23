@@ -233,13 +233,29 @@ My core development stack centers on backend services, relational databases, and
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Micomyiza-Alexis&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<a href="https://github.com/Micomyiza-Alexis">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Micomyiza-Alexis&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micomyiza-Alexis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages" />
+<a href="https://github.com/Micomyiza-Alexis">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micomyiza-Alexis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages" />
+</a>
 
-<img src="https://streak-stats.demolab.com/?user=Micomyiza-Alexis&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<a href="https://streak-stats.demolab.com/?user=Micomyiza-Alexis&theme=tokyonight&hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=Micomyiza-Alexis&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Micomyiza-Alexis&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+<br/>
+
+### Contribution Activity Graph
+
+<a href="https://github.com/Micomyiza-Alexis">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Micomyiza-Alexis&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+</a>
+
+<p>
+  <a href="https://github.com/Micomyiza-Alexis?tab=overview&from=2026-01-01&to=2026-12-31">View my contributions directly on GitHub →</a>
+</p>
 
 </div>
 
