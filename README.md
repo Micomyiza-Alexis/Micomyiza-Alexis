@@ -249,7 +249,11 @@ My core development stack centers on backend services, relational databases, and
 ### 📈 Contribution Activity Graph
 
 <a href="https://github.com/Micomyiza-Alexis">
-  <img src="https://raw.githubusercontent.com/Micomyiza-Alexis/Micomyiza-Alexis/main/assets/contribution-graph.svg" width="100%" alt="GitHub contribution activity graph" />
+<img
+  src="https://raw.githubusercontent.com/Micomyiza-Alexis/Micomyiza-Alexis/main/assets/contribution-graph.svg"
+  width="100%"
+  alt="Daily GitHub contributions over the last 365 days"
+/>
 </a>
 
 <p>
