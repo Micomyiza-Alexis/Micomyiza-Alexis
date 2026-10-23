@@ -1,0 +1,39 @@
+name: Update Contribution Graph
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate contribution graph
+        env:
+          GH_CONTRIBUTIONS_TOKEN: ${{ secrets.GH_CONTRIBUTIONS_TOKEN }}
+        run: python .github/scripts/generate-contribution-graph.py
+
+      - name: Commit updated graph
+        run: |
+          git add assets/contribution-graph.svg
+          if git diff --cached --quiet; then
+            echo "Contribution graph is already up to date."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "chore: update contribution graph"
+            git push
+          fi
