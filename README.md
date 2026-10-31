@@ -246,24 +246,6 @@ My core development stack centers on backend services, relational databases, and
 </a>
 
 <br/>
-### 📈 Contribution Activity Graph
-
-<a href="https://github.com/Micomyiza-Alexis">
-<img
-  src="https://raw.githubusercontent.com/Micomyiza-Alexis/Micomyiza-Alexis/main/assets/contribution-graph.svg"
-  width="100%"
-  alt="Daily GitHub contributions over the last 365 days"
-/>
-</a>
-
-<p>
-  <a href="https://github.com/Micomyiza-Alexis?tab=overview">View my contributions directly on GitHub →</a>
-</p>
-
-</div>
-
----
-
 ## 🧠 Engineering Principles
 
 I believe good engineering is about more than getting code to run. It means understanding the problem, making deliberate trade-offs, and building software that can be tested, maintained, and improved.
